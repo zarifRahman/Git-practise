@@ -1,5 +1,5 @@
 // shadman
 
-const Shadman = () => {
+const Zarif = () => {
   console.log("Hello from ZarifDev2");
 }
