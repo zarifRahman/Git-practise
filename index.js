@@ -1,3 +1,3 @@
-const Zarif = () => {
-  console.log("Hello from Zarif 1.0");
+const Shadman = () => {
+  console.log("Hello from Shaman 2.0");
 }
