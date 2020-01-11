@@ -1,3 +1,3 @@
-const Shadman = () => {
-  console.log("Hello from Shadman");
+const ShadmanDev2 = () => {
+  console.log("Hello from ShadmanDev2");
 }
