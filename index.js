@@ -1,3 +1,3 @@
-const Zarif2 = () => {
-  console.log("Hello from Zarif2");
+const Zarif = () => {
+  console.log("Hello from ZarifDev2");
 }
